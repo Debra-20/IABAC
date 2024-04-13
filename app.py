@@ -1,4 +1,4 @@
-## Streamlit credit scoring web App
+## Streamlit  web App
 
 # importing libraries
 import streamlit as st
